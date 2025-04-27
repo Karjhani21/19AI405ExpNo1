@@ -86,9 +86,9 @@ def print_status(self):
 ```
     
 OUTPUT:
-```
- ![image](https://github.com/user-attachments/assets/98a79304-9056-4a07-91e8-70e1593e7026)
- ```
+![Screenshot 2025-04-27 193852](https://github.com/user-attachments/assets/ca9c6ceb-519f-41fd-9640-e4d92c41ddcc)
+
+
 RESULT:
 Thus an AI agent is developed.
 
