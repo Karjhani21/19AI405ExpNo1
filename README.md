@@ -1,9 +1,11 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: KARJHANI PRIYANKA S B 
+<h3>Register Number: 212224040150
 
 
-<h3>AIM:</h3>
+<h3>AIM:</h3>To find the PEAS description for the given AI problem and develop an AI agent.
+
+
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
@@ -40,8 +42,11 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-PROGRAM:
+  
+ PROGRAM:
+ 
 class VacuumCleanerAgent: def init(self): # Initialize the agent's state (location and dirt status) self.location = "A" # Initial location (can be "A" or "B") self.dirt_status = {"A": False, "B": False} # Initial dirt status (False means no dirt)
+
 ```
 def move_left(self):
     # Move the agent to the left if possible
@@ -79,18 +84,14 @@ def perform_action(self, action):
 def print_status(self):
     # Print the current status of the agent
     print(f"Location: {self.location}, Dirt Status: {self.dirt_status}")
-
 ```
-EXAMPLE USAGE:
-agent = VacuumCleanerAgent()
-
-MOVE THE AGENT ,SUCK DIRT, AND DO NOTHING:
-agent.perform_action("left") agent.print_status() agent.perform_action("suck") agent.print_status() agent.perform_action("nothing") agent.print_status()
-
+    
 OUTPUT:
-
-![image](https://github.com/user-attachments/assets/b49d1e98-2523-4aed-b1fd-5ac6b6b42013)
-
+```
+ ![image](https://github.com/user-attachments/assets/98a79304-9056-4a07-91e8-70e1593e7026)
+ ```
 RESULT:
-Thus an AI agent is developed
+Thus an AI agent is developed.
+
+
 
