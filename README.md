@@ -86,7 +86,9 @@ def print_status(self):
 ```
     
 OUTPUT:
+```
 ![Screenshot 2025-04-27 193852](https://github.com/user-attachments/assets/ca9c6ceb-519f-41fd-9640-e4d92c41ddcc)
+```
 
 
 RESULT:
